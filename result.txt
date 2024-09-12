@@ -1,0 +1,495 @@
+Name: Xiaomi Redmi Note 13 8/128GB Global Version (Ko'k)
+Price: 2,295,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 128GB Single (Qora)
+Price: 10,307,000 UZS
+----------------------------------------
+Name: Tecno Spark 20 Pro 8/256GB (Qora)
+Price: 2,249,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi 13C 6/128GB (Oq)
+Price: 1,769,000 UZS
+----------------------------------------
+Name: Xiaomi 14 12/256GB Global Version (Kumush rang)
+Price: 9,607,000 UZS
+----------------------------------------
+Name: Xiaomi Poco F6 8/256 GB Global Version (Qora)
+Price: 5,090,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi A2+ 3/64 GB Global Version (Green)
+Price: 1,232,000 UZS
+----------------------------------------
+Name: Xiaomi 13T 8/256GB Global Version (Qora)
+Price: 5,790,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi 13 8/128GB Global Version (Pushti)
+Price: 2,201,000 UZS
+----------------------------------------
+Name: Xiaomi Poco X6 12/256GB Global Version (Qora)
+Price: 3,728,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi 13 8/128GB Global Version (Tillarang)
+Price: 2,201,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi Note 12R Pro 12/256GB Asia Version (Oq)
+Price: 2,672,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi Note 12S 8/256GB Global Version (Ko'k)
+Price: 2,545,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi 13C 4/128GB Global Version (Qora)
+Price: 1,578,000 UZS
+----------------------------------------
+Name: Xiaomi 14 12/256GB Global Version (Qora)
+Price: 9,607,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi Note 13R pro 12/256GB Asia Version (Qora)
+Price: 2,672,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi A3 3/64GB (Qora)
+Price: 1,234,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi A3 3/64GB (Ko'k)
+Price: 1,234,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi Note 13 Pro+ 5G 8/256GB Global Version (Oq)
+Price: 4,543,000 UZS
+----------------------------------------
+Name: Xiaomi Redmi 13 6/128GB Global Version (Qora)
+Price: 2,049,000 UZS
+----------------------------------------
+Name: Xiaomi Poco F6 Pro 12/256 GB Global Version (Oq)
+Price: 6,744,000 UZS
+----------------------------------------
+Name: Samsung Galaxy S23 8/128GB (Qaymoq rang)
+Price: 7,508,000 UZS
+----------------------------------------
+Name: Samsung Galaxy A35 8/256GB (Siren)
+Price: 4,136,000 UZS
+----------------------------------------
+Name: Samsung Galaxy Z Fold5 12/512GB (Qora)
+Price: 15,779,000 UZS
+----------------------------------------
+Name: Samsung Galaxy A06 6/128GB (Qora)
+Price: 1,921,000 UZS
+----------------------------------------
+Name: Samsung Galaxy A55 8/128GB (Sariq)
+Price: 4,314,000 UZS
+----------------------------------------
+Name: Samsung Galaxy Z Fold5 12/256GB (Ko'k)
+Price: 15,015,000 UZS
+----------------------------------------
+Name: Samsung Galaxy Z Fold5 12/256GB (Qora)
+Price: 15,015,000 UZS
+----------------------------------------
+Name: Samsung Galaxy S24 8/128GB (Kulrang)
+Price: 8,564,000 UZS
+----------------------------------------
+Name: Samsung Gusto 3 CDMA Original (Qora)
+Price: 3,073,000 UZS
+----------------------------------------
+Name: Samsung Galaxy Z Fold5 12/256GB (Qaymoq rang)
+Price: 15,015,000 UZS
+----------------------------------------
+Name: Samsung Galaxy S23 Fe 8/256GB (Yalpiz)
+Price: 6,362,000 UZS
+----------------------------------------
+Name: Samsung Galaxy S24 Ultra 12/512GB (Titan Sariq)
+Price: 14,024,000 UZS
+----------------------------------------
+Name: Samsung Galaxy S23 8/128GB (Yashil)
+Price: 7,508,000 UZS
+----------------------------------------
+Name: Samsung Galaxy Z Fold 4 12/256GB (Qora)
+Price: 12,470,000 UZS
+----------------------------------------
+Name: Samsung Galaxy S24 8/128GB (Sariq)
+Price: 8,564,000 UZS
+----------------------------------------
+Name: Samsung Galaxy A15 8/256GB (Qora)
+Price: 2,380,000 UZS
+----------------------------------------
+Name: Samsung Galaxy S24+ 12/256GB (Kulrang)
+Price: 11,180,000 UZS
+----------------------------------------
+Name: Samsung Galaxy Z Fold5 12/512GB (Qaymoq rang)
+Price: 15,779,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 256GB Single (Yashil)
+Price: 11,834,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Plus 256GB Single (Qora)
+Price: 13,762,000 UZS
+----------------------------------------
+Name: Apple iPhone 14 128GB Single (Ko'k)
+Price: 9,798,000 UZS
+----------------------------------------
+Name: Apple iPhone 14 Pro 256GB Single (Tilla rang)
+Price: 14,548,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Pro 128GB Single (Ko'k Titan)
+Price: 13,361,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Pro 1TB Single (Kulrang)
+Price: 20,315,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Pro Max 512GB Single (Oq)
+Price: 18,578,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Pro Max 512GB Single (Ko'k Titan)
+Price: 18,578,000 UZS
+----------------------------------------
+Name: Apple iPhone 13 128GB Single (Ko'k)
+Price: 8,780,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Pro 128GB Single (Kulrang)
+Price: 13,361,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Pro 256GB Single (Ko'k Titan)
+Price: 14,811,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Plus 128GB Single (Pushti)
+Price: 12,343,000 UZS
+----------------------------------------
+Name: Apple iPhone 14 Pro 256GB Single (Qora)
+Price: 14,548,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Plus 512 GB (Qora)
+Price: 15,073,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 512GB Single (Qora)
+Price: 13,762,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Plus 512 GB (Yashil)
+Price: 15,073,000 UZS
+----------------------------------------
+Name: Apple iPhone 13 128GB (Pushti)
+Price: 8,780,000 UZS
+----------------------------------------
+Name: Apple iPhone 15 Plus 128GB Single (Ko'k)
+Price: 12,343,000 UZS
+----------------------------------------
+Name: Honor X6b 6/256 GB (Qora)
+Price: 1,871,000 UZS
+----------------------------------------
+Name: Honor X8b 8/128GB (Qora)
+Price: 2,838,000 UZS
+----------------------------------------
+Name: Honor X7b 6/256GB (Kumush rang)
+Price: 2,469,000 UZS
+----------------------------------------
+Name: Honor 90 12/512GB (Yashil)
+Price: 6,617,000 UZS
+----------------------------------------
+Name: Honor X9b 12/256GB (Qora)
+Price: 4,225,000 UZS
+----------------------------------------
+Name: Honor 200 8/256GB (Oq)
+Price: 5,446,000 UZS
+----------------------------------------
+Name: Honor 90 8/256GB (Kumush rang)
+Price: 6,235,000 UZS
+----------------------------------------
+Name: Honor 200 pro 12/512GB (Oq)
+Price: 7,762,000 UZS
+----------------------------------------
+Name: Honor 200 pro 12/512GB (Pushti)
+Price: 7,762,000 UZS
+----------------------------------------
+Name: Honor X9b 8/256GB (Qora)
+Price: 3,792,000 UZS
+----------------------------------------
+Name: Honor X7a 4/128GB (Ko'k)
+Price: 2,201,000 UZS
+----------------------------------------
+Name: Honor X8b 8/256GB (Kumush rang)
+Price: 3,029,000 UZS
+----------------------------------------
+Name: Honor X9b 12/256GB (Sabzi rang)
+Price: 4,225,000 UZS
+----------------------------------------
+Name: Honor X7b 8/128GB (Qora)
+Price: 2,265,000 UZS
+----------------------------------------
+Name: Honor 200 lite 8/256 (Moviy)
+Price: 3,436,000 UZS
+----------------------------------------
+Name: Honor X8b 8/256GB (Yashil)
+Price: 3,029,000 UZS
+----------------------------------------
+Name: Honor X7b 8/128GB (Yashil)
+Price: 2,265,000 UZS
+----------------------------------------
+Name: Honor X9b 8/256GB (Yashil)
+Price: 3,792,000 UZS
+----------------------------------------
+Name: Tecno Spark 20C 8/128GB (Oq)
+Price: 1,599,000 UZS
+----------------------------------------
+Name: Tecno Spark 20 Pro 8/256GB (Qora)
+Price: 2,249,000 UZS
+----------------------------------------
+Name: Tecno Pova 5 8/256GB (Oq)
+Price: 2,415,000 UZS
+----------------------------------------
+Name: Tecno Pova 6 Neo 8/256 GB (Kumush rang)
+Price: 2,299,000 UZS
+----------------------------------------
+Name: Tecno Spark 20C 8/128GB (Oq)
+Price: 1,599,000 UZS
+----------------------------------------
+Name: Tecno Spark 10 8/128GB ( Qora)
+Price: 1,781,000 UZS
+----------------------------------------
+Name: Tecno Spark 20 Pro 8/256GB (Yashil) + Sovg'a simsiz quloqchin
+Price: 2,249,000 UZS
+----------------------------------------
+Name: Tecno Pova 6 Pro 12/256 GB (Yashil)
+Price: 3,625,000 UZS
+----------------------------------------
+Name: Tecno Spark Go 2024GB 3/64 (Oq)
+Price: 1,130,000 UZS
+----------------------------------------
+Name: Tecno Spark 20C 4/128GB (Qora)
+Price: 1,399,000 UZS
+----------------------------------------
+Name: Tecno Pova 6 12/256 GB (Kulrang)
+Price: 3,141,000 UZS
+----------------------------------------
+Name: Tecno Spark 20 8/256GB (Ko'k)
+Price: 2,011,000 UZS
+----------------------------------------
+Name: Tecno Spark 20 Pro+ 8/256GB (Oy izg'irini)
+Price: 2,749,000 UZS
+----------------------------------------
+Name: Tecno Spark Go 2024 4/128GB (Yashil)
+Price: 1,299,000 UZS
+----------------------------------------
+Name: Tecno Pova 6 Pro 12/256 GB (Qora)
+Price: 3,625,000 UZS
+----------------------------------------
+Name: Tecno Camon 20 Pro 8/256GB (Qora)
+Price: 2,990,000 UZS
+----------------------------------------
+Name: Tecno Spark 20C 4/128GB (Yashil)
+Price: 1,399,000 UZS
+----------------------------------------
+Name: Tecno Pova 6 8/256 GB (Yashil)
+Price: 3,051,000 UZS
+----------------------------------------
+Name: Infinix Note 40 Pro 12/256 GB (Vintaj yashil)
+Price: 3,507,000 UZS
+----------------------------------------
+Name: Infinix Hot 30 8/128GB (Poyga Qora)
+Price: 1,815,000 UZS
+----------------------------------------
+Name: Infinix Smart 8 3/64GB (Qora)
+Price: 1,222,000 UZS
+----------------------------------------
+Name: Infinix Note 40 Pro 12/256 GB (Titan oltin)
+Price: 3,507,000 UZS
+----------------------------------------
+Name: Infinix Note 30 8/128GB (Qora)
+Price: 2,024,000 UZS
+----------------------------------------
+Name: Infinix Note 40 Pro 12/256 GB (Kulrang)
+Price: 3,507,000 UZS
+----------------------------------------
+Name: Infinix HOT 40i 8/128GB (Tilla rang)
+Price: 1,692,000 UZS
+----------------------------------------
+Name: Infinix Note 30 8/128GB (Ko'k)
+Price: 2,024,000 UZS
+----------------------------------------
+Name: Infinix HOT 40i 8/128GB (Qora)
+Price: 1,629,000 UZS
+----------------------------------------
+Name: Infinix Hot 40 Pro 8/256GB (Tillarang)
+Price: 2,235,000 UZS
+----------------------------------------
+Name: Infinix Smart 8 4/128GB (Yashil)
+Price: 1,374,000 UZS
+----------------------------------------
+Name: Infinix Hot 30 Play 8/128GB (Qora)
+Price: 1,705,000 UZS
+----------------------------------------
+Name: Infinix Note 40 Pro 12/256 GB (Qora)
+Price: 3,507,000 UZS
+----------------------------------------
+Name: Смартфон Infinix Smart 8 4/64GB Gold
+Price: 1,336,000 UZS
+----------------------------------------
+Name: Infinix HOT 40 Pro12/256GB (Havorang)
+Price: 2,520,000 UZS
+----------------------------------------
+Name: Infinix HOT 40i 4/128GB (Qora)
+Price: 1,489,000 UZS
+----------------------------------------
+Name: Смартфон Infinix Smart 8 4/64GB Black
+Price: 1,336,000 UZS
+----------------------------------------
+Name: Infinix Smart 8 4/128GB (Tilla rang)
+Price: 1,374,000 UZS
+----------------------------------------
+Name: Elektr choynak Welkin Nexus, Tilla rang
+Price: 700,000 UZS
+----------------------------------------
+Name: Kir yuvish mashinasi Shivaki TT 70 P, Moviy
+Price: 1,552,000 UZS
+----------------------------------------
+Name: Elektr gril Braun CG9047
+Price: 3,118,000 UZS
+----------------------------------------
+Name: Muzlatgich Premier PRM-715SBSNFBG Inverter, Qora | MUZ
+Price: 10,880,000 UZS
+----------------------------------------
+Name: Mikroto'lqinli pech Premier PRM-25MWRJ1-B, Qora | MUZ
+Price: 1,134,000 UZS
+----------------------------------------
+Name: Aqlli elektr choynak Aeno EK7S, Qora
+Price: 840,000 UZS
+----------------------------------------
+Name: Televizor Premier 43PRM720SV | MUZ
+Price: 2,967,000 UZS
+----------------------------------------
+Name: Trimmer Philips MG7950/15
+Price: 1,781,000 UZS
+----------------------------------------
+Name: Soch olish mashinkasi Remington HC5100 | AZ
+Price: 827,000 UZS
+----------------------------------------
+Name: Muzlatgich Samsung RT 32 FAJBDWW/WT, Oq
+Price: 6,795,000 UZS
+----------------------------------------
+Name: Konditsioner Hofmann Silver Crown Low Voltage 12. Oq
+Price: 5,787,000 UZS
+----------------------------------------
+Name: Televizor LG 50UP81006
+Price: 8,424,000 UZS
+----------------------------------------
+Name: Muzlatgich Midea MDRM691, Kumushrang | Shax
+Price: 11,707,000 UZS
+----------------------------------------
+Name: Dazmol Braun SI3054GY
+Price: 700,000 UZS
+----------------------------------------
+Name: Konditsioner Immer AERO 18 Inverter, Oq
+Price: 5,855,000 UZS
+----------------------------------------
+Name: Gaz plita Artel Apetito 01-G, Qizil
+Price: 2,519,000 UZS
+----------------------------------------
+Name: Konditsioner LG B18LH, Qora
+Price: 13,743,000 UZS
+----------------------------------------
+Name: Bug' dazmol Polaris PGS 2230VA
+Price: 1,998,000 UZS
+----------------------------------------
+Name: Quloqchin Sony Inzone H7 Buds, Oq
+Price: 2,520,000 UZS
+----------------------------------------
+Name: Noutbuk Hp 250 G8 i3-11th / 8 GB / 512GB SSD 15,6" FHD
+Price: 5,144,000 UZS
+----------------------------------------
+Name: Noutbuk Asus ProArt StudioBook 16 OLED i7-1165G7 / 32 GB / 1TB SSD / RTX3060 6GB 4K OLEDНоутбук Asus ProArt StudioBook 16 OLED i7-1165G7 / 32 GB / 1TB SSD / RTX3060 6GB 4K OLED
+Price: 32,054,000 UZS
+----------------------------------------
+Name: Apple MacBook Air 13.6" M2 16GB RAM, 512GB SSD, Kumush rang
+Price: 24,050,000 UZS
+----------------------------------------
+Name: Mikrafon Razer Seiren Mini Quartz, Qora
+Price: 789,000 UZS
+----------------------------------------
+Name: Apple MacBook Air 13.6" M2 8GB RAM, 256GB SSD, Kumush rang
+Price: 14,564,000 UZS
+----------------------------------------
+Name: Корпус Zalman Z10 DUO elektr ta'minotisiz, Qora | ERC
+Price: 1,477,000 UZS
+----------------------------------------
+Name: Asosiy plata ASUS PRIME A320M-R-SI
+Price: 1,430,000 UZS
+----------------------------------------
+Name: O'yin uchun Epos H3PRO Hybrid, | ERC
+Price: 2,150,000 UZS
+----------------------------------------
+Name: Logitech Studio sichqoncha paneli seriyasi
+Price: 280,000 UZS
+----------------------------------------
+Name: Printer этикеток 2E-76U | ERC
+Price: 1,266,000 UZS
+----------------------------------------
+Name: Video karta MSI GeForce RTX 4060 Ti Ventus 3X 16G OC
+Price: 8,040,000 UZS
+----------------------------------------
+Name: Laminator 2E L - 3250 | ERC
+Price: 1,606,000 UZS
+----------------------------------------
+Name: Mikrofon Saramonic Blink500 ProX B5
+Price: 2,532,000 UZS
+----------------------------------------
+Name: Quvvat bloki NZXT C750 750W / 80+ Gold
+Price: 2,074,000 UZS
+----------------------------------------
+Name: Asosiy plata ASUS ROG STRIX Z790-A GAMING WIFI D4
+Price: 5,919,000 UZS
+----------------------------------------
+Name: Video karta MSI RX 5500-XT-GAMING 8GB
+Price: 4,222,000 UZS
+----------------------------------------
+Name: O'yin uchun Epos H3PRO Hybrid | ERC
+Price: 2,150,000 UZS
+----------------------------------------
+Name: Radar detektor Inspector Shot Air
+Price: 1,909,000 UZS
+----------------------------------------
+Name: Shina Tercelo Croseason 4S 185/70R13 | BOB
+Price: 713,000 UZS
+----------------------------------------
+Name: Shina Nexen N'Priz AH8 All- Season Radial Tire-235/50R18 97H | BOB
+Price: 1,463,000 UZS
+----------------------------------------
+Name: Shina Kumho TA21 205/65/15 | BOB
+Price: 980,000 UZS
+----------------------------------------
+Name: Shina Kumho KL33 235/55/20 | BOB
+Price: 1,845,000 UZS
+----------------------------------------
+Name: Batareya Delkor 60R | BOB
+Price: 1,031,000 UZS
+----------------------------------------
+Name: Shina Kumho TA71 235/50/18 | BOB
+Price: 1,438,000 UZS
+----------------------------------------
+Name: Shina Tercelo Croseason 4S 245/45R19 | BOB
+Price: 1,425,000 UZS
+----------------------------------------
+Name: Shina Kumho TA71 245/45/19 | BOB
+Price: 1,654,000 UZS
+----------------------------------------
+Name: Shina Tercelo Croseason 4S 225/55R18 | BOB
+Price: 1,145,000 UZS
+----------------------------------------
+Name: Radar detektor Inspector Scat S
+Price: 3,245,000 UZS
+----------------------------------------
+Name: Shina Kumho KL33 255/50/20 | BOB
+Price: 1,972,000 UZS
+----------------------------------------
+Name: Shina Tercelo Croseason 4S 225/60R17 | BOB
+Price: 1,056,000 UZS
+----------------------------------------
+Name: Shina Tercelo Croseason 4S 205/60R16| BOB
+Price: 929,000 UZS
+----------------------------------------
+Name: Shina Lanvigator Catchgre GP100 (185/70R14) | BOB
+Price: 700,000 UZS
+----------------------------------------
+Name: Shina Kumho TA11 215/70/14 | BOB
+Price: 1,005,000 UZS
+----------------------------------------
+Name: Radar detektor Inspector MapS
+Price: 4,008,000 UZS
+----------------------------------------
+Name: Shina Rotalla RA03 205/70/14 | BOB
+Price: 763,000 UZS
+----------------------------------------
